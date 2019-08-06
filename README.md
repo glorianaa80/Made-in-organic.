@@ -1,2 +1,9 @@
-# Proyecto-final-
-Proyecto final.  Es una página de plantas y de recetas que se pueden hacer con ellas y el usuario tiene la opción de hacer su propio recetario
+## Initial Setup
+
+* `npm install`
+
+## NPM Commands
+
+* `npm run dev`: Runs development server
+* `npm run build`: Builds production version
+* `npm run prod`: Runs web server for production version
