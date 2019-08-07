@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  display: none;
+}
+
+.grid-padre {
+  display: grid;
+  grid-template-columns: 180px 1fr 1fr;
+  grid-template-rows: 65px 118px 107px 89px 168px;
+  background-image: url(../img/nueva4.png);
+  background-size: cover;
+}
+
+.background-menue {
+  background: black;
+  max-width: 100%;
+  grid-column: 1/4;
+  grid-row: 1/2;
+}
+
+.logo-menue {
+  grid-column: 1/2;
+  grid-row: 1/2;
+  padding-left: 11px;
+  padding-top: 15px;
+  max-width: 100%;
+}
+
+/* Hamburger Menu */
+.bar {
+  width: 80%;
+  height: 2px;
+  margin-top: 5px;
+  background-color: white;
+  border-radius: 1px;
+  transition: 0.5s ease-in-out;
+}
+
+.toggle-mobile {
+  padding-top: 20px;
+  width: 50px;
+  height: 50px;
+  grid-column: 3/4;
+  grid-row: 1/2;
+}
+
+.toggle-mobile:hover {
+  padding-top: 30px;
+}
+
+.toggle-mobile:hover #up {
+  transition: 0.25s ease-in-out;
+  transform: rotate(43deg);
+  width: 35px;
+}
+
+.toggle-mobile:hover #bt {
+  transition: 0.25s ease-in-out;
+  transform: rotate(-41deg);
+  width: 35px;
+  margin-top: -2px;
+}
+
+.toggle-mobile:hover #md {
+  transition: 0s ease-in-out;
+  opacity: 0;
+}
+
+/* .bar:nth-child(1){
+      top: 0;
+    }
+
+.bar:nth-child(2){
+      top: 10%;
+    }
+
+.bar:nth-child(3){
+      top: 30%;
+}  */
+/* Menu Links */
+/* .toggle-mobile .btns-container{
+  position: absolute;
+  display: block;
+  top: -40px;
+  left: 0px;
+  transition: .3s ease-in-out;
+  height: auto;
+  width: 200px;
+  border-radius: 1px;
+  padding: 5px;
+  visibility: hidden;
+}
+
+.toggle-mobile:hover .btns-container{
+  visibility: visible;
+}
+
+.toggle-mobile:hover .btns-container{
+  left: 0px;
+}
+
+.toggle-mobile .btns-container .btn{
+  position: relative;
+  display: block;
+  width: 100%;
+  color: #fff;
+  font-size: 14pt;
+  text-align: center;
+  text-decoration: none;
+}
+.toggle-mobile .btns-container .btn:hover{
+  color: tomato;
+} */
+
+/*# sourceMappingURL=style.css.map */
