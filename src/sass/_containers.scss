@@ -1,0 +1,30 @@
+.manhattan{
+  grid-column: 1/4;
+  grid-row: 2/4;
+  margin-top: 36px;
+  text-align: center;
+}
+
+.grid-padre {
+  display: grid;
+  grid-template-columns: 132px 60px 74px 1fr;
+  grid-template-rows: 65px 118px 107px 89px 168px; 
+  background-image: url(../img/nueva4.png);
+  background-size: cover;
+}
+
+.background-menue {
+  background: black;
+  max-width: 100%;
+  grid-column: 1/5;
+  grid-row: 1/2;
+}
+
+.plants-container{
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 14px 78px 197px 1fr;
+  grid-template-rows: 52px 150px 150px 150px 150px 150px 150px 150px 150px 1fr; 
+  background: #676767;
+
+}
