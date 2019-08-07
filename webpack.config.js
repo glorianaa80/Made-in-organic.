@@ -69,11 +69,7 @@ module.exports = {
         test: /\.json$/,
         use: [
           {
-            loader: 'file-loader',
-            options: {
-              outputPath: 'js/',
-              publicPath: 'js/',
-            },
+            loader: 'json-loader',
           },
         ],
       },
