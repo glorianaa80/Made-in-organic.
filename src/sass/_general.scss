@@ -1,14 +1,13 @@
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
 }
-a ul{
+
+a {
   display: none;
 }
 
-
-ul {
+.menu {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -25,23 +24,29 @@ li a {
 
 }
 
+p {
+  color: #ffffff;
+  margin: 7% 7% 7% 7%;
+}
+
+p + p {
+  margin: 7% 7% 7% 7%;
+}
+
 .tittle-plants-container {
   margin: 0 auto;
   color: white;
   grid-column: 2/3;
   margin-top: 20px;
+  text-transform: uppercase;
 }
 
-.img-plant-home{
-  max-width: 100%;
+.tittle-manhattan{
+  color: white;
+  margin-left: 43px;
+  text-transform: uppercase;
 }
 
-.tittle-plants-home {
-  padding-top: 15px;
-  margin: 0;
-}
-.fondo a {
-  text-decoration: none;
-  color: black;
-  font-size: 13px;
+.arrow-icon{
+  margin-left: 43px;
 }
