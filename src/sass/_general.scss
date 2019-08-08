@@ -3,9 +3,10 @@ body {
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
 }
-a {
+a ul{
   display: none;
 }
+
 
 ul {
   margin: 0;
@@ -29,4 +30,18 @@ li a {
   color: white;
   grid-column: 2/3;
   margin-top: 20px;
+}
+
+.img-plant-home{
+  max-width: 100%;
+}
+
+.tittle-plants-home {
+  padding-top: 15px;
+  margin: 0;
+}
+.fondo a {
+  text-decoration: none;
+  color: black;
+  font-size: 13px;
 }

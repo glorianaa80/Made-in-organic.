@@ -23,8 +23,74 @@
 .plants-container{
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 14px 78px 197px 1fr;
+  grid-template-columns: 2px 78px 189px 1fr;
   grid-template-rows: 52px 150px 150px 150px 150px 150px 150px 150px 150px 1fr; 
+  grid-gap: 10px;
   background: #676767;
 
+}
+
+.fondo{
+  background: white;
+  width: 70%;
+  height: 80px;
+  margin-left: 40px;
+  margin-top: 36px;
+  opacity: 0.8;
+  text-align: center;
+}
+
+.kale-container{
+  grid-column: 2/4;
+  grid-row: 2/3;
+  background-image: url('../img/kale.png');
+  background-size: cover;
+}
+
+.coriander-container{
+  grid-column: 2/4;
+  grid-row: 3/4;
+  background-image: url('../img/coriander.jpg');
+  background-size: cover;
+}
+.thyme-container{
+  grid-column: 2/4;
+  grid-row: 4/5;
+  background-image: url('../img/thyme.jpg');
+  background-size: cover;
+}
+
+.spinach-container{
+  grid-column: 2/4;
+  grid-row: 5/6;
+  background-image: url('../img/thyme.jpg');
+  background-size: cover;
+}
+
+.mint-container{
+  grid-column: 2/4;
+  grid-row: 6/7;
+  background-image: url('../img/mint.jpg');
+  background-size: cover;
+}
+
+.arugula-container{
+  grid-column: 2/4;
+  grid-row: 7/8;
+  background-image: url('../img/arugula.jpg');
+  background-size: cover;
+}
+
+.basil-container{
+  grid-column: 2/4;
+  grid-row: 8/9;
+  background-image: url('../img/basil.jpg');
+  background-size: cover;
+}
+
+.rosemary-container{
+  grid-column: 2/4;
+  grid-row: 9/10;
+  background-image: url('../img/rosemary.jpg');
+  background-size: cover;
 }

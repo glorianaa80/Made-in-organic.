@@ -9,8 +9,8 @@
 }
 
 .header {
-  grid-column:4/5;
-  grid-row: 1/2;
+  grid-column:1/5;
+  grid-row: 1/6;
   padding-top: 15px;
 } 
 
@@ -37,6 +37,7 @@
   position: relative;
   transition: background .2s ease-out;
   width: 18px;
+  margin-left: 260px;
 }
 
 .header .menu-icon .navicon:before, 
