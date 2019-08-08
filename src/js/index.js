@@ -5,3 +5,4 @@ import '../sass/style.scss';
 import './registerServiceWorker';
 
 import './fetch';
+import './menue';
