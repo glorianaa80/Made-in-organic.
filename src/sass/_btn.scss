@@ -1,27 +1,16 @@
-.info-plants {
-  background-color: #676767;
-  padding-bottom:20%; 
+.btn-publish {
+  grid-column: 3/4;
 }
 
-.info-title {
-  color: #97BC42;
-  margin: 0;
-  padding: 14% 0 3% 3%;
+.btn-img{
+  grid-column: 5/6;
+  text-transform: uppercase;
 }
-
-.properties {
-  color: #ffffff;
+.btn-recipe{
+  margin-top: 10px;
+  background: #97BC42;
+  color: white;
 }
-
-.properties-li {
-  margin: 0;
-	padding: 9px 0 25px 30px;
-	list-style: none;
-	background-image: url(../img/ul-propieties.svg);
-	background-repeat: no-repeat;
-	background-size: 17px;
-}
-
 
 .btn {
   background-color: #97BC42;

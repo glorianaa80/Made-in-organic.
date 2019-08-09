@@ -6,18 +6,9 @@ body {
 a ul{
   display: none;
 }
+
 li {
   list-style: none;
-}
-.menu {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  overflow: hidden;
-  background-color: #ffffff;
-  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, .1);
-  color: black;
-  
 }
 
 li a {
@@ -41,74 +32,47 @@ p + p {
   margin: 7% 7% 7% 7%;
 }
 
-.tittle-plants-container {
-  margin: 0 auto;
-  color: white;
-  grid-column: 2/3;
-  margin-top: 20px;
-  text-transform: uppercase;
-}
-
-.tittle-manhattan{
-  color: white;
-  margin-left: 43px;
-  text-transform: uppercase;
+.menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+  background-color: #ffffff;
+  box-shadow: 1px 1px 4px 0 rgba(0, 0, 0, .1);
+  color: black;
+  
 }
 
 .arrow-icon{
   margin-left: 43px;
 }
+
 .img-plant-home{
   max-width: 100%;
 }
 
-.tittle-plants-home {
-  padding-top: 15px;
-  margin: 0;
-  text-transform: uppercase;
-}
 .fondo a {
   text-decoration: none;
   color: black;
   font-size: 13px;
 }
+
 .link-plants-home{
   text-transform: uppercase;
 }
 
-// MY RECIPIES HTML
-.principal-tittle {
-  color: white;
-  text-transform: uppercase;
-  grid-column: 1/5;
-  grid-row: 2/3;
-  text-align: center;
-  padding-top: 70px;
+
+.properties {
+  color: #ffffff;
 }
 
-.tittle-my-recipe{
+.properties-li {
   margin: 0;
-  padding-top: 15px;
-  grid-column: 1/5;
-  text-transform: uppercase;
-  color: #97BC42;
-  text-align: center;
-}
-.space-tittle {
-  grid-column: 2/7;
-  margin-top: 12px;
-  font-size: 16px;
-}
-.btn-publish {
-  grid-column: 3/4;
+	padding: 9px 0 25px 30px;
+	list-style: none;
+	background-image: url(../img/ul-propieties.svg);
+	background-repeat: no-repeat;
+	background-size: 17px;
 }
 
-.btn-img{
-  grid-column: 5/6;
-  text-transform: uppercase;
-}
-.btn-recipe{
-  margin-top: 10px;
-  background: #97BC42;
-  color: white;
-}
+
