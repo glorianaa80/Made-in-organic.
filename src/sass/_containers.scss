@@ -20,6 +20,12 @@
   background-size: cover;
 }
 
+.grid-padre-recipes{
+  display: grid;
+  grid-template-columns: 132px 60px 74px ;
+  grid-template-rows: 65px; 
+  background-size: cover;
+}
 .my-recipies{
   display: grid;
   grid-template-columns: 132px 60px;

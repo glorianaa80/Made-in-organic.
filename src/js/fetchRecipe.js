@@ -13,7 +13,7 @@ function recipe(data) {
 
   const t = document.createElement('h2');
   t.innerHTML = receta[0].tittle;
-  t.setAttribute('class', 'recipe-tittle');
+  t.setAttribute('class', 'recipe-tittle-h2');
   containerRecipeK.appendChild(t);
 
   const H3Kale = document.createElement('h3');
@@ -59,7 +59,7 @@ function recipe(data) {
   // RECIPE CORIANDER
   const h2C = document.createElement('h2');
   h2C.innerHTML = receta[1].tittle;
-  h2C.setAttribute('class', 'recipe-tittle');
+  h2C.setAttribute('class', 'recipe-tittle-h2');
   containerRecipeC.appendChild(h2C);
   const h3c = document.createElement('h3');
   h3c.innerHTML = 'INGREDIENTS';
@@ -103,7 +103,7 @@ function recipe(data) {
   // RECIPE THYME
   const h2T = document.createElement('h2');
   h2T.innerHTML = receta[2].tittle;
-  h2T.setAttribute('class', 'recipe-tittle');
+  h2T.setAttribute('class', 'recipe-tittle-h2');
   containerRecipeT.appendChild(h2T);
   const h3t = document.createElement('h3');
   h3t.innerHTML = 'INGREDIENTS';
@@ -146,7 +146,7 @@ function recipe(data) {
   // RECIPE SPINACH
   const h2S = document.createElement('h2');
   h2S.innerHTML = receta[3].tittle;
-  h2S.setAttribute('class', 'recipe-tittle');
+  h2S.setAttribute('class', 'recipe-tittle-h2');
   containerRecipeS.appendChild(h2S);
   const h3s = document.createElement('h3');
   h3s.innerHTML = 'INGREDIENTS';
@@ -189,7 +189,7 @@ function recipe(data) {
   // RECIPE MINT
   const h2M = document.createElement('h2');
   h2M.innerHTML = receta[4].tittle;
-  h2M.setAttribute('class', 'recipe-tittle');
+  h2M.setAttribute('class', 'recipe-tittle-h2');
   containerRecipeM.appendChild(h2M);
   const h3m = document.createElement('h3');
   h3m.innerHTML = 'INGREDIENTS';
@@ -232,7 +232,7 @@ function recipe(data) {
   // RECIPE ARUGULA
   const h2A = document.createElement('h2');
   h2A.innerHTML = receta[5].tittle;
-  h2A.setAttribute('class', 'recipe-tittle');
+  h2A.setAttribute('class', 'recipe-tittle-h2');
   containerRecipeA.appendChild(h2A);
   const h3A = document.createElement('h3');
   h3A.innerHTML = 'INGREDIENTS';
@@ -275,7 +275,7 @@ function recipe(data) {
   // RECIPE BASIL
   const h2B = document.createElement('h2');
   h2B.innerHTML = receta[6].tittle;
-  h2B.setAttribute('class', 'recipe-tittle');
+  h2B.setAttribute('class', 'recipe-tittle-h2');
   containerRecipeB.appendChild(h2B);
   const h3b = document.createElement('h3');
   h3b.innerHTML = 'INGREDIENTS';
@@ -318,7 +318,7 @@ function recipe(data) {
   // RECIPE ROSEMARY
   const h2R = document.createElement('h2');
   h2R.innerHTML = receta[7].tittle;
-  h2R.setAttribute('class', 'recipe-tittle');
+  h2R.setAttribute('class', 'recipe-tittle-h2');
   containerRecipeR.appendChild(h2R);
   const h3R = document.createElement('h3');
   h3R.innerHTML = 'INGREDIENTS';
