@@ -12,6 +12,7 @@
   background-image: url(../img/nueva4.png);
   background-size: cover;
 }
+
 .my-recipies{
   display: grid;
   grid-template-columns: 132px 60px;
@@ -19,14 +20,17 @@
   background-image: url(../img/cuchara.jpg);
   background-size: cover
 }
+
 .form-recipe {
   background: #656565;
 }
+
 .form-grid {
   display: grid;
   grid-template-columns:17px 17px 80px 20px 80px 71px 17px 17px;
   grid-template-rows: 47px 42px 110px 42px 49px 53px;
 }
+
 .background-menue {
   background: black;
   max-width: 100%;
