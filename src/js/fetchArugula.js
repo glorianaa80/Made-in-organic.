@@ -1,5 +1,5 @@
 function arugula(data) {
-  const Arugula = data['Plantas'];
+  const Arugula = data.Plantas;
   const containerPlantsArugula = document.getElementById('container-plants-arugula');
   const H3Arugula = document.createElement('h3');
   H3Arugula.setAttribute('class', 'info-title');

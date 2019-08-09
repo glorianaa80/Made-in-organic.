@@ -1,5 +1,5 @@
 function rosemary(data) {
-  const Rosemay = data['Plantas'];
+  const Rosemay = data.Plantas;
   const containerPlantsRosemay = document.getElementById('container-plants-rosemary');
   const H3Rosemay = document.createElement('h3');
   H3Rosemay.setAttribute('class', 'info-title');

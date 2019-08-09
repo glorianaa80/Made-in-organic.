@@ -1,5 +1,5 @@
 function basil(data) {
-  const Basil = data['Plantas'];
+  const Basil = data.Plantas;
   const containerPlantsBasil = document.getElementById('container-plants-basil');
   const H3Basil = document.createElement('h3');
   H3Basil.setAttribute('class', 'info-title');

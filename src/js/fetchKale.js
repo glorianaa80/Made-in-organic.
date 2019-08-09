@@ -1,5 +1,5 @@
 function kale(data) {
-  const Kale = data['Plantas'];
+  const Kale = data.Plantas;
   const containerPlants = document.getElementById('container-plants-kale');
   const H3Kale = document.createElement('h3');
   H3Kale.setAttribute('class', 'info-title');

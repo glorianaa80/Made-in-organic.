@@ -1,175 +1,181 @@
-[
-  {
-    "tittle": "SALAD OF KALE",
-    "ingredients": {
-      "firt":"14 kale leaves",
-      "second":"½ apple",
-      "third":"½ cup chickpeas",
-      "fourth":"6 California walnuts",
-      "fiveth":"2 tablespoons dried cranberries",
-      "sixth":"1 tablespoon lemon juice",
-      "seventh":"2 tablespoons homemade veganaise (or mayonnaise for a non-vegan option)",
-      "eighth":"Sesame seeds for garnish "
+{
+  "Recetas": [
+    {
+      "tittle": "SALAD OF KALE",
+      "ingredients": [
+        "14 kale leaves",
+        "½ apple",
+        "½ cup chickpeas",
+        "6 California walnuts",
+        "2 tablespoons dried cranberries",
+        "1 tablespoon lemon juice",
+        "2 tablespoons homemade veganaise (or mayonnaise for a non-vegan option)",
+        "Sesame seeds for garnish "
+      ],
+      "preparation": [
+        "First we will wash the leaves well and we will be making kale chips, separating and discarding all a little hard nerves of the leaves with your hands.",
+        "When we have it, we add the lemon juice and 1 tablespoon of veganaise and masajearemos hands to soften the kale and go mixing everything.",
+        "After about a minute or two, the leaf pieces have diminished considerably in size and lost its rigidity.",
+        "Then we will simply adding the remaining salad ingredients, the remaining tablespoon of veganaise, dried cranberries, etc ... cutting diced apple and chopping nuts.",
+        "We mix well and serve with some sesame seeds over! (Best crushed, to benefit from the large amount of calcium containing)"
+      ],
+      "final": "FINAl SCORE",
+      "img": "../img/KALE-ENSALADA-FINAL.jpg"
     },
-    "preparation": {
-      "firt":"First we will wash the leaves well and we will be making kale chips, separating and discarding all a little hard nerves of the leaves with your hands.",
-      "second":"When we have it, we add the lemon juice and 1 tablespoon of veganaise and masajearemos hands to soften the kale and go mixing everything.",
-      "third":"After about a minute or two, the leaf pieces have diminished considerably in size and lost its rigidity.",
-      "fourth""Then we will simply adding the remaining salad ingredients, the remaining tablespoon of veganaise, dried cranberries, etc ... cutting diced apple and chopping nuts.",
-      "fiveth":"We mix well and serve with some sesame seeds over! (Best crushed, to benefit from the large amount of calcium containing)"
-    }
-  },
-  {
-    "tittle": "CILANTRO PESTO AND  SHRIMP PASTA",
-    "ingredients": {
-      "firt":"8 oz Vermicelli pasta",
-      "second":"1 teaspoon olive oil",
-      "third":"5 garlic cloves, chopped",
-      "fourth":"10-12 oz raw shrimp, rinsed, shelled and deveined",
-      "fiveth":"80 fresh cilantro sprigs (approx 2 cups), washed",
-      "sixth":"1 garlic clove",
-      "seventh":"1/3 cup cashews",
-      "eighth":"1/2 cup cotija cheese, grated (Look for it in the Mexican cheese section of your market)",
-      "nineth":"1/4 cup extra virgin olive oil",
-      "tenth":"Salt to taste"
+    {
+      "tittle": "CILANTRO PESTO AND  SHRIMP PASTA",
+      "ingredients": [
+        "8 oz Vermicelli pasta",
+        "1 teaspoon olive oil",
+        "5 garlic cloves, chopped",
+        "10-12 oz raw shrimp, rinsed, shelled and deveined",
+        "80 fresh cilantro sprigs (approx 2 cups), washed",
+        "1 garlic clove",
+        "1/3 cup cashews",
+        "1/2 cup cotija cheese, grated (Look for it in the Mexican cheese section of your market)",
+        "1/4 cup extra virgin olive oil",
+        "Salt to taste"
+      ],
+      "preparation": [
+        "Cook pasta according to instructions on the package. Be aware that Vermicelli is very thin and it cooks very quickly. In my case it took just 6 minutes once I put it into the boiling water.",
+        "Meanwhile, prepare the pesto while you are waiting for the water to boil.",
+        "In a food processor combine cilantro, garlic, cashews, cotija cheese, and olive oil. Mix until well blended. Taste for salt (depending on the cheese and cashews you are using it may need it or not). Mix again. Set apart.",
+        "Heat oil in a pan, add garlic and cook until golden. Add shrimp and cook 2-3 minutes per side. Be sure to not overcooked them or they will become rubbery. You will see them change color from a grayish to a white pinkish.",
+        "Drain pasta. Transfer pasta to a serving bowl, add the cilantro pesto and coat well.",
+        "Serve with garlic shrimp on top."
+      ],
+      "final": "FINAl SCORE",
+      "img": "../img/PASTA-PESTO-FINAL.jpg"
     },
-    "preparation": {
-      "firt":"Cook pasta according to instructions on the package. Be aware that Vermicelli is very thin and it cooks very quickly. In my case it took just 6 minutes once I put it into the boiling water.",
-      "second":"Meanwhile, prepare the pesto while you are waiting for the water to boil.",
-      "third":"In a food processor combine cilantro, garlic, cashews, cotija cheese, and olive oil. Mix until well blended. Taste for salt (depending on the cheese and cashews you are using it may need it or not). Mix again. Set apart.",
-      "fourth":"Heat oil in a pan, add garlic and cook until golden. Add shrimp and cook 2-3 minutes per side. Be sure to not overcooked them or they will become rubbery. You will see them change color from a grayish to a white pinkish.",
-      "fiveth":"Drain pasta. Transfer pasta to a serving bowl, add the cilantro pesto and coat well.",
-      "sixth":"Serve with garlic shrimp on top."
-    }
-  },
-  {
-    "tittle": "BALSAMIC CHICKEN WITH MUSHROOMS AND THYME",
-    "ingredients": {
-      "firt":"1.33 lbs. boneless skinless chicken breasts",
-      "second":"2 tsp olive oil",
-      "third":"8 oz. mushrooms, sliced",
-      "fourth":"2 garlic cloves, minced",
-      "fiveth":"1/2 cup low sodium chicken broth",
-      "sixth":"2.5 tbsp. balsamic vinegar",
-      "seventh":"1/2 tsp. thyme",
-      "eighth":"Salt and pepper",
-      "nineth":"1 tbsp. parsley, choppedil",
-      "tenth":"Salt to taste"
+    {
+      "tittle": "BALSAMIC CHICKEN WITH MUSHROOMS AND THYME",
+      "ingredients": [
+        "1.33 lbs. boneless skinless chicken breasts",
+        "2 tsp olive oil",
+        "8 oz. mushrooms, sliced",
+        "2 garlic cloves, minced",
+        "1/2 cup low sodium chicken broth",
+        "2.5 tbsp. balsamic vinegar",
+        "1/2 tsp. thyme",
+        "Salt and pepper",
+        "1 tbsp. parsley, choppedil",
+        "Salt to taste"
+      ],
+      "preparation": [
+        "Season the chicken with salt and pepper. Heat the olive oil over medium high heat. Add the chicken and sear on both sides until golden brown, about 2-3 minutes. Remove the chicken and set aside.",
+        "Add the garlic and mushrooms to the skillet and cook for 3-4 minutes until mushrooms begin to soften.",
+        "Add the chicken broth, balsamic vinegar, and thyme to the skillet. Stir and scrape any browned bits off the bottom of the pan. Add the chicken and let simmer for 10-15 minutes on low heat or until chicken is fully cooked."
+      ]
     },
-    "preparation": {
-      "firt":"Season the chicken with salt and pepper. Heat the olive oil over medium high heat. Add the chicken and sear on both sides until golden brown, about 2-3 minutes. Remove the chicken and set aside.",
-      "second":"Add the garlic and mushrooms to the skillet and cook for 3-4 minutes until mushrooms begin to soften.",
-      "third":"Add the chicken broth, balsamic vinegar, and thyme to the skillet. Stir and scrape any browned bits off the bottom of the pan. Add the chicken and let simmer for 10-15 minutes on low heat or until chicken is fully cooked."
-    }
-  },
-  {
-    "tittle": "VEGAN MUSHROOM PASTA WITH SPINACH",
-    "ingredients": {
-      "firt":"14 oz (gluten-free) pasta of choice (400g)",
-      "second":"3 tbsp olive oil",
-      "third":"1 onion chopped",
-      "fourth":"3 cloves of garlic minced",
-      "fiveth":"14 oz mushrooms (400g) sliced",
-      "sixth":"10,5 oz baby spinach (300g) fresh", 
-      "seventh":"approx. 1/2 cup vegetable broth (or plant-based cream)",
-      "eighth":"1-2 tbsp soy sauce (optional)",
-      "nineth":"Salt y pepper to taste",
-      "tenth":"2 tsp lime juice (optional)",
-      "eleventh":"Parsley chopped (optional)",
-      "twelfth":"Pinch of smoked paprika",
-      "thirtieth":"5 tbsp pine nuts",
-      "fourteenth":"Vegan parmesan (optional)"
+    {
+      "tittle": "VEGAN MUSHROOM PASTA WITH SPINACH",
+      "ingredients": [
+        "14 oz (gluten-free) pasta of choice (400g)",
+        "3 tbsp olive oil",
+        "1 onion chopped",
+        "3 cloves of garlic minced",
+        "14 oz mushrooms (400g) sliced",
+        "10,5 oz baby spinach (300g) fresh",
+        "approx. 1/2 cup vegetable broth (or plant-based cream)",
+        "1-2 tbsp soy sauce (optional)",
+        "Salt y pepper to taste",
+        "2 tsp lime juice (optional)",
+        "Parsley chopped (optional)",
+        "Pinch of smoked paprika",
+        "5 tbsp pine nuts",
+        "Vegan parmesan (optional)"
+      ],
+      "preparation": [
+        "Cook the paste in salted water according to the package instruction",
+        "Toast the pine nuts in a small pan without additional oil. Then remove from the pan and set aside.",
+        "Heat the olive oil in a large skillet/pan. Add the mushrooms along with the onions and saute for about 3 minutes until lightly browned.",
+        "Add the chopped garlic and cook for about 30 seconds  longer. Then deglaze with soy sauce and a bit of vegetable broth (or plant-based cream). Reduce the heat and cook for about 1-2 minutes longer.",
+        "Add the spinach and cook for further 2-3 minutes until it has wilted. Season with sal and pepper. Optionally, add a splash of frexh lime juice, if you like.",
+        "Once the noodles are 'al dente', pour off the cooking water. Put drained paste to the mushrooms in the pan and toss to combibine. Add yeast flakes or vegan parmesan as desired and season with spices to taste again",
+        "Serve the mushrooms paste witj toasted pine nuts"
+      ]
     },
-    "preparation": {
-      "firt":"Cook the paste in salted water according to the package instruction",
-      "second":"Toast the pine nuts in a small pan without additional oil. Then remove from the pan and set aside.",
-      "third":"Heat the olive oil in a large skillet/pan. Add the mushrooms along with the onions and saute for about 3 minutes until lightly browned.",
-      "fourth":"Add the chopped garlic and cook for about 30 seconds  longer. Then deglaze with soy sauce and a bit of vegetable broth (or plant-based cream). Reduce the heat and cook for about 1-2 minutes longer.",
-      "fiveth":"Add the spinach and cook for further 2-3 minutes until it has wilted. Season with sal and pepper. Optionally, add a splash of frexh lime juice, if you like.",
-      "sixth":"Once the noodles are 'al dente', pour off the cooking water. Put drained paste to the mushrooms in the pan and toss to combibine. Add yeast flakes or vegan parmesan as desired and season with spices to taste again",
-      "seventh":"Serve the mushrooms paste witj toasted pine nuts"
-    }
-  },
-  {
-    "tittle": "MINT CHIP CHEESECAKE MOUSSE",
-    "ingredients": {
-      "firt":"13 (150g) regular Oreos, finely crushed in a food processor",
-      "second":"2 Tbsp (28g) butter, melted",
-      "third":"2 Tbsp (30ml) cold water",
-      "fourth":"1 1/2 tsp gelatin powder",
-      "fiveth":"1 1/2 cups (350ml) heavy cream",
-      "sixth":"2 (8 oz) pkg. cream cheese, softened", 
-      "seventh":"Green and yellow food coloring (optional)",
-      "eighth":"1 tsp mint extract*",
-      "nineth":"1/2 tsp peppermint extract",
-      "tenth":"1 1/2 cups (200g) powdered sugar, divided",
-      "eleventh":"1 (3.5 oz) bar good quality semi-sweet chocolate, finely chopped (or more to taste)"
+    {
+      "tittle": "MINT CHIP CHEESECAKE MOUSSE",
+      "ingredients": [
+        "13 (150g) regular Oreos, finely crushed in a food processor",
+        "2 Tbsp (28g) butter, melted",
+        "2 Tbsp (30ml) cold water",
+        "1 1/2 tsp gelatin powder",
+        "1 1/2 cups (350ml) heavy cream",
+        "2 (8 oz) pkg. cream cheese, softened",
+        "Green and yellow food coloring (optional)",
+        "1 tsp mint extract*",
+        "1/2 tsp peppermint extract",
+        "1 1/2 cups (200g) powdered sugar, divided",
+        "1 (3.5 oz) bar good quality semi-sweet chocolate, finely chopped (or more to taste)"
+      ],
+      "preparation": [
+        "In a mixing bowl stir together crushed Oreos and butter, divide mixture among 8 small dessert cups and gently press into an even layer. ",
+        "Add water to a small bowl then sprinkle gelatin evenly over top, let rest 5 - 10 minutes.",
+        "Meanwhile, pour heavy cream into a medium mixing bowl and whip until soft peaks form. Add 1/4 cup (35g) of the powdered sugar and whip until stiff peaks form (shake excess on beater blades into bowl, no need to rinse), set aside.",
+        "Add cream cheese to a separate mixing bowl and mix with electric hand mixer until smooth and fluffy, about 2 minutes. Add remaining 1 1/4 cups (164g) powdered sugar and mix until combined. ",
+        "Add in mint and peppermint extract, and food coloring if using** and mix until combined, set aside.",
+        "Heat gelatin mixture in microwave on high power for 30 seconds then remove and whisk 1 minute to ensure it dissolves well. ",
+        "Let cool 3 minutes (not longer or it may start to set) then pour gelatin mixture into cream cheese mixture and immediately blend with hand mixer to combined.",
+        "Add whipped cream mixture and chopped chocolate to cream cheese mixture and fold just until evenly combined. ",
+        "Pour mixture in batches into a piping bag and pipe mousse over Oreo crust layer (or just spoon it into cups). Chill 3 hours.",
+        "Serve chilled and if desired (just before serving) pipe sweetened whipped cream over top, garnish with mint and chopped chocolate."
+      ]
     },
-    "preparation": {
-      "firt":"In a mixing bowl stir together crushed Oreos and butter, divide mixture among 8 small dessert cups and gently press into an even layer. ",
-      "second":"Add water to a small bowl then sprinkle gelatin evenly over top, let rest 5 - 10 minutes.",
-      "third":"Meanwhile, pour heavy cream into a medium mixing bowl and whip until soft peaks form. Add 1/4 cup (35g) of the powdered sugar and whip until stiff peaks form (shake excess on beater blades into bowl, no need to rinse), set aside.",
-      "fourth":"Add cream cheese to a separate mixing bowl and mix with electric hand mixer until smooth and fluffy, about 2 minutes. Add remaining 1 1/4 cups (164g) powdered sugar and mix until combined. ",
-      "fiveth":"Add in mint and peppermint extract, and food coloring if using** and mix until combined, set aside.",
-      "sixth":"Heat gelatin mixture in microwave on high power for 30 seconds then remove and whisk 1 minute to ensure it dissolves well. ",
-      "seventh":"Let cool 3 minutes (not longer or it may start to set) then pour gelatin mixture into cream cheese mixture and immediately blend with hand mixer to combined.",
-      "eighth":"Add whipped cream mixture and chopped chocolate to cream cheese mixture and fold just until evenly combined. ",
-      "nineth":"Pour mixture in batches into a piping bag and pipe mousse over Oreo crust layer (or just spoon it into cups). Chill 3 hours.",
-      "tenth":"Serve chilled and if desired (just before serving) pipe sweetened whipped cream over top, garnish with mint and chopped chocolate."
-    }
-  },
-  {
-    "tittle": "CREAM OF RÚCULA AND POTATO",
-    "ingredients": {
-      "firt":"125 g shallots",
-      "second":"250 g of peeled and chopped potatoes",
-      "third":"800 ml of vegetable stock",
-      "fourth":"90 g arugula",
-      "fiveth":"Salt",
-      "sixth":"Pepper", 
-      "seventh":"Olive oil",
-      "eighth":"Bread croutons"
+    {
+      "tittle": "CREAM OF RÚCULA AND POTATO",
+      "ingredients": [
+        "125 g shallots",
+        "250 g of peeled and chopped potatoes",
+        "800 ml of vegetable stock",
+        "90 g arugula",
+        "Salt",
+        "Pepper",
+        "Olive oil",
+        "Bread croutons"
+      ],
+      "preparation": [
+        "In a pot, heat a couple of tablespoons of oil.",
+        "Chop the shallots and add them to the pot, sauté a few minutes over medium heat until they begin to brown",
+        "Add the potatoes, previously peeled and chopped, a pinch of salt and pepper and stir to mix the flavors.",
+        "Pour the broth and once it starts to boil, cook about 20-25 minutes over medium-low heat until the potato is tender.",
+        "Once cooked, remove from heat, add the arugula leaves and mash until you get a fine texture.",
+        "Serve the arugula cream with a drizzle of oil and accompanied by some croutons of bread."
+      ]
     },
-    "preparation": {
-      "firt":"In a pot, heat a couple of tablespoons of oil.",
-      "second":"Chop the shallots and add them to the pot, sauté a few minutes over medium heat until they begin to brown",
-      "third":"Add the potatoes, previously peeled and chopped, a pinch of salt and pepper and stir to mix the flavors.",
-      "fourth":"Pour the broth and once it starts to boil, cook about 20-25 minutes over medium-low heat until the potato is tender.",
-      "fiveth":"Once cooked, remove from heat, add the arugula leaves and mash until you get a fine texture.",
-      "sixth":"Serve the arugula cream with a drizzle of oil and accompanied by some croutons of bread."
-    }
-  },
-  {
-    "tittle": "BASIL CREAM SPAGHETTI",
-    "ingredients": {
-      "firt":"200 grams of spaghetti",
-      "second":"200 ml of cream",
-      "third":"half a bunch of basil",
-      "fourth":"1 clove garlic",
-      "fiveth":"Olive oil",
-      "sixth":"Salt and pepper"
+    {
+      "tittle": "BASIL CREAM SPAGHETTI",
+      "ingredients": [
+        "200 grams of spaghetti",
+        "200 ml of cream",
+        "half a bunch of basil",
+        "1 clove garlic",
+        "Olive oil",
+        "Salt and pepper"
+      ],
+      "preparation": [
+        "We will start cooking the pasta in hot water, with salt, until it is al dente, according to the instructions on the packaging. When ready, we will reserve 1/2 cup of the cooking water, and drain.",
+        "Our next step will be to separate the basil leaves from their stems, and then place them in the blender with the cream, garlic, salt, pepper, a tablespoon of olive oil and the cooking water that we have reserved. We process until you get a soft green sauce.",
+        "Empty the basil cream in a saucepan and bring it over medium heat until it forms a layer of foam and intensifies its color; rectify seasoning if necessary and add the spaghetti. Mix carefully, lower the heat and let the pasta permeate the flavor for a couple of minutes."
+      ]
     },
-    "preparation": {
-      "firt":"We will start cooking the pasta in hot water, with salt, until it is al dente, according to the instructions on the packaging. When ready, we will reserve 1/2 cup of the cooking water, and drain.",
-      "second":"Our next step will be to separate the basil leaves from their stems, and then place them in the blender with the cream, garlic, salt, pepper, a tablespoon of olive oil and the cooking water that we have reserved. We process until you get a soft green sauce.",
-      "third":"Empty the basil cream in a saucepan and bring it over medium heat until it forms a layer of foam and intensifies its color; rectify seasoning if necessary and add the spaghetti. Mix carefully, lower the heat and let the pasta permeate the flavor for a couple of minutes."
+    {
+      "tittle": "BAKED CHICKEN BREASSTS WITH LEMON AND ROSEMARY",
+      "ingredients": [
+        "1-2 medium lemons, sliced",
+        "2 sprigs of rosemary",
+        "2 cloves of garlic, quartered",
+        "1/2 kilo of chicken breasts, boneless and skinless",
+        "1 tablespoon olive oil",
+        "1 teaspoon salt",
+        "1/2 teaspoon black pepper"
+      ],
+      "preparation": [
+        "Preheat the oven to 230 °. Place a layer of lemon slices and 1 sprig of rosemary at the bottom of a baking dish. Spread half of garlic around the tray.",
+        "Season both sides of the chicken with salt and pepper. Then, place the chicken on the bed of rosemary and lemon. Next, put the remaining lemon slices on top of the chicken breasts and rosemary sprigs between the breasts. Sprinkle with the remaining garlic and sprinkle with olive oil.",
+        "Bake for 25-30 minutes until the chicken is cooked. Then, cover with foil for 5 minutes and let the chicken stand, serve and enjoy."
+      ]
     }
-  },
-  {
-    "tittle": "BAKED CHICKEN BREASSTS WITH LEMON AND ROSEMARY",
-    "ingredients": {
-      "firt":"1-2 medium lemons, sliced",
-      "second":"2 sprigs of rosemary",
-      "third":"2 cloves of garlic, quartered",
-      "fourth":"1/2 kilo of chicken breasts, boneless and skinless",
-      "fiveth":"1 tablespoon olive oil",
-      "sixth":"1 teaspoon salt",
-      "seventh":"1/2 teaspoon black pepper"
-    },
-    "preparation": {
-      "firt":"Preheat the oven to 230 °. Place a layer of lemon slices and 1 sprig of rosemary at the bottom of a baking dish. Spread half of garlic around the tray.",
-      "second":"Season both sides of the chicken with salt and pepper. Then, place the chicken on the bed of rosemary and lemon. Next, put the remaining lemon slices on top of the chicken breasts and rosemary sprigs between the breasts. Sprinkle with the remaining garlic and sprinkle with olive oil.",
-      "third":"Bake for 25-30 minutes until the chicken is cooked. Then, cover with foil for 5 minutes and let the chicken stand, serve and enjoy."
-    }
-  }
-]
+  ]
+}
