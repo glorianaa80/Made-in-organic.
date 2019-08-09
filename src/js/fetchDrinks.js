@@ -1,15 +1,15 @@
-function recipe(data) {
+function drinks(data) {
   // RECIPE KALE
-  const receta = data.Recetas;
+  const receta = data.Drinks;
   const containerRecipe = document.getElementById('container-recipe');
-  const containerRecipeK = document.getElementById('kale');
-  const containerRecipeC = document.getElementById('coriander');
-  const containerRecipeT = document.getElementById('thyme');
-  const containerRecipeS = document.getElementById('spinach');
-  const containerRecipeM = document.getElementById('mint');
-  const containerRecipeA = document.getElementById('arugula');
-  const containerRecipeB = document.getElementById('basil');
-  const containerRecipeR = document.getElementById('rosemary');
+  const containerRecipeK = document.getElementById('drinks-kale');
+  const containerRecipeC = document.getElementById('drinks-coriander');
+  const containerRecipeT = document.getElementById('drinks-thyme');
+  const containerRecipeS = document.getElementById('drinks-spinach');
+  const containerRecipeM = document.getElementById('drinks-mint');
+  const containerRecipeA = document.getElementById('drinks-arugula');
+  const containerRecipeB = document.getElementById('drinks-basil');
+  const containerRecipeR = document.getElementById('drinks-rosemary');
 
   const t = document.createElement('h2');
   t.innerHTML = receta[0].tittle;
@@ -359,6 +359,6 @@ function recipe(data) {
   containerRecipe.appendChild(containerRecipeR);
 }
 
-fetch('../json/info-recipe.json')
+fetch('../json/info-drinks.json')
   .then(data => data.json())
-  .then(json => recipe(json));
+  .then(json => drinks(json));

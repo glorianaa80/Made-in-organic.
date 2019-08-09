@@ -23,4 +23,6 @@ import './fetchKale';
 
 import './fetchRecipe';
 
+import './fetchDrinks';
+
 import './menue';

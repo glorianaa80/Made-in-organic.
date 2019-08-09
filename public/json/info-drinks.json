@@ -1,120 +1,131 @@
-[
-  {
-    "tittle": "MANGO KALE SMOOTHIE",
-    "ingredients": {
-      "firt":"2 cups Chopped Kale Leaves (lightly packed), stems removed (60g)",
-      "second":"1 Medium Banana , cut into chunks",
-      "third":"1 cup Frozen Mango Pieces (130g)",
-      "fourth":"1 cup Milk (250ml)",
-      "fiveth":"½ cup Greek Yogurt (125ml)",
-      "sixth":"2 tbsp Honey"
+{
+  "Drinks": [
+    {
+      "tittle": "MANGO KALE SMOOTHIE",
+      "ingredients": [
+        "2 cups Chopped Kale Leaves (lightly packed), stems removed (60g)",
+        "1 Medium Banana , cut into chunks",
+        "1 cup Frozen Mango Pieces (130g)",
+        "1 cup Milk (250ml)",
+        "½ cup Greek Yogurt (125ml)",
+        "2 tbsp Honey"
+      ],
+      "preparation": [
+        "Place all the ingredients into a blender and blend until smooth.",
+        "Pour into glasses and serve."
+      ],
+      "final": "FINAl SCORE",
+      "img": "../img/kale2.jpg"
     },
-    "preparation": {
-      "firt":"Place all the ingredients into a blender and blend until smooth.",
-      "second":"Pour into glasses and serve."
-    }
-  },
-  {
-    "tittle": "MANGO CILANTRO GREEN SMOOTHIE ",
-    "ingredients": {
-      "firt":"1/2 banana",
-      "second":"3” piece of cucumber",
-      "third":"1 cup fresh spinach leaves",
-      "fourth":"1 cup frozen mango",
-      "fiveth":"1/4 cup plain yogurt",
-      "sixth":"1/2 cup almond milk",
-      "seventh":"2 tablespoons cilantro leaves (1 big pinch!)",
-      "eighth":"Juice from 1/2 lime"
+    {
+      "tittle": "MANGO CILANTRO GREEN SMOOTHIE ",
+      "ingredients": [
+        "1/2 banana",
+        "3” piece of cucumber",
+        "1 cup fresh spinach leaves",
+        "1 cup frozen mango",
+        "1/4 cup plain yogurt",
+        "1/2 cup almond milk",
+        "2 tablespoons cilantro leaves (1 big pinch!)",
+        "Juice from 1/2 lime"
+      ],
+      "preparation": [
+        "Lime, cilantro, and mango complement each other perfectly in this zippy mango cilantro green smoothie which is sure to start your morning off right!"
+      ],
+      "img": "../img/CILANTRO2.jpg"
     },
-    "preparation": {
-      "firt":"Lime, cilantro, and mango complement each other perfectly in this zippy mango cilantro green smoothie which is sure to start your morning off right!"
-    }
-  },
-  {
-    "tittle": "SPINACH CUCUMBER SMOOTHIE",
-    "ingredients": {
-      "firt":"1 Medium Apple",
-      "second":"1½ cup Spinach , packed",
-      "third":"1 Cucumber",
-      "fourth":"1 Avocado",
-      "fiveth":"2 cups Almond Milk",
-      "sixth":"8 Pitted Dates"
+    {
+      "tittle": "SPINACH CUCUMBER SMOOTHIE",
+      "ingredients": [
+        "1 Medium Apple",
+        "1½ cup Spinach , packed",
+        "1 Cucumber",
+        "1 Avocado",
+        "2 cups Almond Milk",
+        "8 Pitted Dates"
+      ],
+      "preparation": [
+        "Peel and dice the apple and cucumber. Cut the avocado in half and remove the stone. Roughly chop the dates.",
+        "Place all the ingredients in a blender and process until smooth."
+      ],
+      "img": "../img/spinach2.jpg"
     },
-    "preparation": {
-      "firt":"Peel and dice the apple and cucumber. Cut the avocado in half and remove the stone. Roughly chop the dates.",
-      "second":"Place all the ingredients in a blender and process until smooth."
-    }
-  },
-  {
-    "tittle": "SPRING THYME LEMONADE",
-    "ingredients": {
-      "firt":"1 cup fresh squeezed lemon juice",
-      "second":"4 1/2 cup filtered water",
-      "third":"3/4 cup thyme infused simple syrup, or more according to taste ice cubes, as needed",
-      "fourth":"1 cup water",
-      "fiveth":"1 cup granulated sugar",
-      "sixth":"4 fresh sprigs thyme, preferably lemon thyme"
+    {
+      "tittle": "SPRING THYME LEMONADE",
+      "ingredients": [
+        "1 cup fresh squeezed lemon juice",
+        "4 1/2 cup filtered water",
+        "3/4 cup thyme infused simple syrup, or more according to taste ice cubes, as needed",
+        "1 cup water",
+        "1 cup granulated sugar",
+        "4 fresh sprigs thyme, preferably lemon thyme"
+      ],
+      "preparation": [
+        "Stir together lemon juice, water, and thyme simple syrup. Add more syrup depending on taste preference. Refrigerate. Serve chilled with ice. Garnish with a slice of lemon and a sprig of thyme.",
+        "In a medium sauce pot, combine water, sugar, and thyme. Bring to a boil until sugar has dissolved. Remove from heat. Cover sauce pot and let thyme steep for 8-10 minutes. Remove thyme sprigs and allow simple syrup to cool to room temperature. Transfer to air tight jar and keep chilled in the fridge."
+      ],
+      "img": "../img/thyme2.jpg"
     },
-    "preparation": {
-      "firt":"Stir together lemon juice, water, and thyme simple syrup. Add more syrup depending on taste preference. Refrigerate. Serve chilled with ice. Garnish with a slice of lemon and a sprig of thyme.",
-      "second":"In a medium sauce pot, combine water, sugar, and thyme. Bring to a boil until sugar has dissolved. Remove from heat. Cover sauce pot and let thyme steep for 8-10 minutes. Remove thyme sprigs and allow simple syrup to cool to room temperature. Transfer to air tight jar and keep chilled in the fridge."
-    }
-  },
-  {
-    "tittle": "RASPBERRY LIME MINT SMOOTHIE",
-    "ingredients": {
-      "firt":"3 cups raspberries, fresh or frozen",
-      "second":"5 sprigs mint",
-      "third":"2 cups plain almond milk, or any vegan milk",
-      "fourth":"1 cup water, filtered if possible",
-      "fiveth":"5 - 7 medjool or california dates, pitted",
-      "sixth":"juice of 1 lime"
+    {
+      "tittle": "RASPBERRY LIME MINT SMOOTHIE",
+      "ingredients": [
+        "3 cups raspberries, fresh or frozen",
+        "5 sprigs mint",
+        "2 cups plain almond milk, or any vegan milk",
+        "1 cup water, filtered if possible",
+        "5 - 7 medjool or california dates, pitted",
+        "juice of 1 lime"
+      ],
+      "preparation": [
+        "Blend everything together until smooth. Add water to adjust the sweetness and consistency, if desired."
+      ],
+      "img": "../img/mint2.jpg"
     },
-    "preparation": {
-      "firt":"Blend everything together until smooth. Add water to adjust the sweetness and consistency, if desired."
-    }
-  },
-  {
-    "tittle": "ARUGULA AND TANGERINE SMOOTHIE",
-    "ingredients": {
-      "firt":"3 mandarins Tangerines (1 kg without skin approx.)",
-      "second":"2 leaves of romaine lettuce",
-      "third":"A cup of arugula leaves",
-      "fourth":"Water to taste"
+    {
+      "tittle": "ARUGULA AND TANGERINE SMOOTHIE",
+      "ingredients": [
+        "3 mandarins Tangerines (1 kg without skin approx.)",
+        "2 leaves of romaine lettuce",
+        "A cup of arugula leaves",
+        "Water to taste"
+      ],
+      "preparation": [
+        "Enter all the ingredients in the blender and beat until you get the desired texture. As the tangerines provide a lot of texture, it is possible that at the beginning a thicker texture is left, you can add water until you get a smoothie texture."
+      ],
+      "img": "../img/RUCULA3.jpg"
     },
-    "preparation": {
-      "firt":"Enter all the ingredients in the blender and beat until you get the desired texture. As the tangerines provide a lot of texture, it is possible that at the beginning a thicker texture is left, you can add water until you get a smoothie texture."
-    }
-  },
-  {
-    "tittle": "BLUEBERRY BASIL SMOOTHIE",
-    "ingredients": {
-      "firt":"1 cup blueberries",
-      "second":"1 banana",
-      "third":"1 cup milk of your choice (I love to use almond or cashew milk)",
-      "fourth":"1/4 cup basil (approximately one small handful)",
-      "fiveth":"3-4 ice cubes"
+    {
+      "tittle": "BLUEBERRY BASIL SMOOTHIE",
+      "ingredients": [
+        "1 cup blueberries",
+        "1 banana",
+        "1 cup milk of your choice (I love to use almond or cashew milk)",
+        "1/4 cup basil (approximately one small handful)",
+        "3-4 ice cubes"
+      ],
+      "preparation": [
+        "Add all ingredients to a blender and blend on high until smooth. Pour into glasses and enjoy! "
+      ],
+      "img": "../img/basil2.jpg"
     },
-    "preparation": {
-      "firt":"Add all ingredients to a blender and blend on high until smooth. Pour into glasses and enjoy! "
+    {
+      "tittle": "ROSEMARY MANGO GREEN SMOOTHIE",
+      "ingredients": [
+        "1 cup rice milk",
+        "1 banana",
+        "1/2 lime juiced",
+        "1/2 cup baby spinach",
+        "1 cup frozen mango chopped",
+        "1 Tbsp. fresh rosemary",
+        "1 Tbsp. raw pumpkin seeds",
+        "1/4 tsp. ground ginger"
+      ],
+      "preparation": [
+        "Add ingredients to a high-speed blender in the order they are listed.",
+        "Begin blending on low and increase to highest speed.",
+        "Blend on high for approximately 35 seconds."
+      ],
+      "img": "../img/Rosemary3.jpg"
     }
-  },
-  {
-    "tittle": "ROSEMARY MANGO GREEN SMOOTHIE",
-    "ingredients": {
-      "firt":"1 cup rice milk",
-      "second":"1 banana",
-      "third":"1/2 lime juiced",
-      "fourth":"1/2 cup baby spinach",
-      "fiveth":"1 cup frozen mango chopped",
-      "sixth":"1 Tbsp. fresh rosemary",
-      "seventh":"1 Tbsp. raw pumpkin seeds",
-      "eighth":"1/4 tsp. ground ginger"
-    },
-    "preparation": {
-      "firt":"Add ingredients to a high-speed blender in the order they are listed.",
-      "second":"Begin blending on low and increase to highest speed.",
-      "third":"Blend on high for approximately 35 seconds."
-    }
-  }
-]
+  ]
+}
