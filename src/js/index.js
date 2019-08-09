@@ -21,4 +21,6 @@ import './fetchThyme';
 
 import './fetchKale';
 
+import './fetchRecipe';
+
 import './menue';

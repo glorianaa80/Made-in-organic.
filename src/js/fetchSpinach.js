@@ -1,5 +1,5 @@
 function spinach(data) {
-  const Spinach = data['Plantas'];
+  const Spinach = data.Plantas;
   const containerPlantsSpinach = document.getElementById('container-plants-spinach');
   const H3Spinach = document.createElement('h3');
   H3Spinach.setAttribute('class', 'info-title');

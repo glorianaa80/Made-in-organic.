@@ -1,5 +1,5 @@
 function coriander(data) {
-  const Coriander = data['Plantas'];
+  const Coriander = data.Plantas;
   const containerPlantsCoriander = document.getElementById('container-plants-coriander');
   const H3Coriander = document.createElement('h3');
   H3Coriander.setAttribute('class', 'info-title');

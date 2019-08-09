@@ -1,5 +1,5 @@
 function thyme(data) {
-  const Thyme = data['Plantas'];
+  const Thyme = data.Plantas;
   const containerPlantsThyme = document.getElementById('container-plants-thyme');
   const H3Thyme = document.createElement('h3');
   H3Thyme.setAttribute('class', 'info-title');

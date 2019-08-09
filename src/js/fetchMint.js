@@ -1,5 +1,5 @@
 function mint(data) {
-  const Mint = data['Plantas'];
+  const Mint = data.Plantas;
   const containerPlantsMint = document.getElementById('container-plants-mint');
   const H3Mint = document.createElement('h3');
   H3Mint.setAttribute('class', 'info-title');
