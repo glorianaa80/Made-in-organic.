@@ -6,7 +6,9 @@ body {
 a ul{
   display: none;
 }
-
+li {
+  list-style: none;
+}
 .menu {
   margin: 0;
   padding: 0;

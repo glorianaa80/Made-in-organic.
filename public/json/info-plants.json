@@ -2,7 +2,7 @@
   "Plantas": [
     {
       "title": "KALE",
-      "info": [
+      "infoKale": [
         "It is a very characteristic and special plant. It comes from the family whose botanical name is Brassica oleracea, and they are characterized by having green leaves that are quite fleshy. In this family we find the well-known cauliflower, cabbage, cabbage, broccoli and Brussels sprouts.",
         "Originally, its cultivation began on the western and southern coasts of Europe, extending later to the rest of Europe, the United States and Japan.",
         "Its appearance is unmistakable and striking, since its leaves form a kind of steering wheel, hence the fact that it is also known as kale. It has a dark green color that can acquire an almost purple hue.",
@@ -29,184 +29,184 @@
     },
     {
       "title": "CORIANDER",
-      "info": {
-        "firt": "Coriander is an herb that contains important properties that help reduce health difficulties. It has the scientific name of Coriadrum sarivum, and is also known as culantro and pebre. It is a common ingredient in cooking, but its consumption is not limited to gastronomy. It is a natural flavoring and detoxifier, reliefs the pain of menstruation, and levels platelet values, decreases anemia.",
-        "second": "Coriander is an herb known for its usual use in different foods, especially in countries of Latin America, the Middle East and Thailand. It is such an ancient plant, that experts in archeology claim to have found remains of the plant, in the tomb of some Pharaohs of Ancient Egypt.",
-        "third": "This natural seasoning, contains different properties that benefit us in th e field of health."
-      },
-      "cultivation": {
-        "firt": "To grow coriander you need a mild climate. Coriander is not demanding in the case of soil, accepting siliceous-clay soils, somewhat calcareous, light, fresh, permeable, deep and even slightly acidic, preferrin g limestones. For greater success of your crop, try to sow it in spring, when the time of frost has passed.",
-        "second": "Before starting the planting process, you must choose a space where the soil drains well and is also exposed to the sun during the morning and then receive shade when the temperatures rise.",
-        "third": "Once the land has been selected, you just have to plant the seeds directly and in a row, then cover them with soil. The seeds must be planted no more than 1 cm. deep to then receive sunlight. On the other hand, the rows should be about 38 cm. from separation. It is recommended to enrich the soil with organic fertilizer.",
-        "fourth": "It is an annual plant, of the parsley family, which occasionally survives until the second year.",
-        "fiveth": "Its average height is 60 cm (2 feet). Its erect and slender stems are branched and bright green. Small pink, pale blue or white flowers are born in compound umbels.",
-        "sixth": "The upper leaves are thin and finely divided, the lower ones are wide, undivided and trilobed. The fruits are achenes, crowned with tiny chalices and the coriander is grown from seeds.",
-        "seventh": "It prefers warm and dry conditions. In the case of seeds, they are sown in spring and need little maintenance. Harvest in about ninety days as soon as the seeds are ripe and before they fall."
-      },
-      "properties": {
-        "firt": "Natural anti inflammatory",
-        "second": "Good cholesterol",
-        "third": "Anti bacterial",
-        "fourth": "Decrease gas and flatulence",
-        "fiveth": "It reduces nausea, dizziness and menstrual cramps",
-        "sixth": "It contains iron and magnesium",
-        "seventh": "It decreases the problems of anemia and blood sugar",
-        "eighth": "Decrease any type of stomach problem",
-        "nineth": "Necessary in diets to lose weight",
-        "tenth": "Eliminates urinary tract problems",
-        "eleventh": "Cures oral infections",
-        "twelfth": "Increases the defenses of the immune system"
-      }
+      "infoCoriander": [
+        "Coriander is an herb that contains important properties that help reduce health difficulties. It has the scientific name of Coriadrum sarivum, and is also known as culantro and pebre. It is a common ingredient in cooking, but its consumption is not limited to gastronomy. It is a natural flavoring and detoxifier, reliefs the pain of menstruation, and levels platelet values, decreases anemia.",
+        "Coriander is an herb known for its usual use in different foods, especially in countries of Latin America, the Middle East and Thailand. It is such an ancient plant, that experts in archeology claim to have found remains of the plant, in the tomb of some Pharaohs of Ancient Egypt.",
+        "This natural seasoning, contains different properties that benefit us in th e field of health."
+      ],
+      "cultivationCoriander": [
+        "To grow coriander you need a mild climate. Coriander is not demanding in the case of soil, accepting siliceous-clay soils, somewhat calcareous, light, fresh, permeable, deep and even slightly acidic, preferrin g limestones. For greater success of your crop, try to sow it in spring, when the time of frost has passed.",
+        "Before starting the planting process, you must choose a space where the soil drains well and is also exposed to the sun during the morning and then receive shade when the temperatures rise.",
+        "Once the land has been selected, you just have to plant the seeds directly and in a row, then cover them with soil. The seeds must be planted no more than 1 cm. deep to then receive sunlight. On the other hand, the rows should be about 38 cm. from separation. It is recommended to enrich the soil with organic fertilizer.",
+        "It is an annual plant, of the parsley family, which occasionally survives until the second year.",
+        "Its average height is 60 cm (2 feet). Its erect and slender stems are branched and bright green. Small pink, pale blue or white flowers are born in compound umbels.",
+        "The upper leaves are thin and finely divided, the lower ones are wide, undivided and trilobed. The fruits are achenes, crowned with tiny chalices and the coriander is grown from seeds.",
+        "It prefers warm and dry conditions. In the case of seeds, they are sown in spring and need little maintenance. Harvest in about ninety days as soon as the seeds are ripe and before they fall."
+      ],
+      "properties": [
+        "Natural anti inflammatory",
+        "Good cholesterol",
+        "Anti bacterial",
+        "Decrease gas and flatulence",
+        "It reduces nausea, dizziness and menstrual cramps",
+        "It contains iron and magnesium",
+        "It decreases the problems of anemia and blood sugar",
+        "Decrease any type of stomach problem",
+        "Necessary in diets to lose weight",
+        "Eliminates urinary tract problems",
+        "Cures oral infections",
+        "Increases the defenses of the immune system"
+      ]
     },
     {
       "title": "THYME",
-      "info": {
-        "firt": "Thyme is a Mediterranean herb with dietary, medicinal and ornamental uses. Flowers, leaves and thyme oil have been used to treat a variety of symptoms and ailments for thousands of years.",
-        "second": "Thyme is taken orally for bronchitis, whooping cough, sore throat, colic, arthritis, stomach upset, stomach pain (gastritis), diarrhea, nocturnal enuresis, a movement disorder in children (dyspraxia), intestinal gas (flatulence), parasite infections and skin disorders. It is also used to increase urine flow (as a diuretic), to disinfect urine and as an appetite stimulant.",
-        "third": "Some people apply thyme directly on the skin to act as an anti-irritant, for hoarseness (laryngitis), swollen tonsils (tonsillitis), sore mouth and bad breath.",
-        "fourth": "Thyme oil is used as a bactericide in mouthwashes and liniments. It is also applied to the scalp to treat baldness and ears to fight bacterial and fungal infections.",
-        "fiveth": "Thymol, one of the chemicals in thyme, is used with another chemical, chlorhexidine, as a dental varnish to prevent tooth decay."
-      },
-      "cultivation": {
-        "firt": "You have three options where you can plant it: pot, garden or orchard; This works from cuttings, a small seedling or seeds.",
-        "second": "If you are in a hurry and have no idea how to grow the herb, it is important that you choose to plant it in a cuttings or in a small plant, since they take time to germinate exactly one month; They need to live in very demanding conditions of humidity and temperature.",
-        "third": "Thyme roots are very long and require an acceptable depth to grow well. This means that the necessary pots must be tall and deep, since they must have a good drainage system.",
-        "fourth": "Now, the land of filling does not have to be of excellent quality, since the thyme can be born in any land. In the same way, it is necessary that you complement the cultivation with compost and homemade compost to reinforce the quality of growth of the plant.",
-        "fiveth": "One of the best things about thyme is that it doesn't require a lot of water to grow strong and healthy. This means that it is an ideal choice for gardeners who have little experience in the field and do not know how to work the plants that set many demands.",
-        "sixth": "The only important thing to remember is: the thyme pots cannot be flooded, otherwise they would not have good drainage and the moisture could be concentrated."
-      },
-      "properties": {
-        "firt": "Kill the tiger mosquito.",
-        "second": "High blood pressure.",
-        "third": "Food preservative",
-        "fourth": "Colon cancer.",
-        "fiveth": "Breast cancer",
-        "sixth": "Antifungal",
-        "seventh": "Strengthen the immune system.",
-        "eighth": "Remove mold",
-        "nineth": "Acne"
-      }
+      "info": [
+        "Thyme is a Mediterranean herb with dietary, medicinal and ornamental uses. Flowers, leaves and thyme oil have been used to treat a variety of symptoms and ailments for thousands of years.",
+        "Thyme is taken orally for bronchitis, whooping cough, sore throat, colic, arthritis, stomach upset, stomach pain (gastritis), diarrhea, nocturnal enuresis, a movement disorder in children (dyspraxia), intestinal gas (flatulence), parasite infections and skin disorders. It is also used to increase urine flow (as a diuretic), to disinfect urine and as an appetite stimulant.",
+        "Some people apply thyme directly on the skin to act as an anti-irritant, for hoarseness (laryngitis), swollen tonsils (tonsillitis), sore mouth and bad breath.",
+        "Thyme oil is used as a bactericide in mouthwashes and liniments. It is also applied to the scalp to treat baldness and ears to fight bacterial and fungal infections.",
+        "Thymol, one of the chemicals in thyme, is used with another chemical, chlorhexidine, as a dental varnish to prevent tooth decay."
+      ],
+      "cultivation": [
+        "You have three options where you can plant it: pot, garden or orchard; This works from cuttings, a small seedling or seeds.",
+        "If  you are in a hurry and have no idea how to grow the herb, it is important that you choose to plant it in a cuttings or in a small plant, since they take time to germinate exactly one month; They need to live in very demanding conditions of humidity and temperature.",
+        "Thyme roots are very long and require an acceptable depth to grow well. This means that the necessary pots must be tall and deep, since they must have a good drainage system.",
+        "Now, the land of filling does not have to be of excellent quality, since the thyme can be born in any land. In the same way, it is necessary that you complement the cultivation with compost and homemade compost to reinforce the quality of growth of the plant.",
+        "One of the best things about thyme is that it doesn't require a lot of water to grow strong and healthy. This means that it is an ideal choice for gardeners who have little experience in the field and do not know how to work the plants that set many demands.",
+        "The only important thing to remember is: the thyme pots cannot be flooded, otherwise they would not have good drainage and the moisture could be concentrated."
+      ],
+      "properties": [
+        "Kill the tiger mosquito.",
+        "High blood pressure.",
+        "Food preservative",
+        "Colon cancer.",
+        "Breast cancer",
+        "Antifungal",
+        "Strengthen the immune system.",
+        "Remove mold",
+        "Acne"
+      ]
     },
     {
       "title": "SPINACH",
-      "info": {
-        "firt": "Spinach is an excellent natural resource of vitamins, fibers and minerals, which compared to meats, provides few calories and does not contain fats. It is also rich in phytonutrients, especially beta-carotene and lutein, making it a vegetable with antioxidant properties that protect us from cell damage. Its stems are richer in fiber than the leaves.",
-        "second": "Spinach is rich in vitamins and minerals Spinach, whose scientific name is Spinacea oleracea, belongs to the Amaranth family, chenopodiodeáceas, as well as beets, quinoa and chard. They grow very well in temperate climates, being today the United States and China, among others, the most important producing countries. They are available throughout the year.",
-        "third": "It is believed that spinach comes from ancient Persia (now Iran). In the seventh century he arrived in China in the hands of the King of Nepal as a gift for the Chinese emperor. It was then the Moors who introduced it to Spain in the eleventh century and from there to the rest of Europe. Spinach was the favorite vegetable of Catalina de Medici. When he left his native Florence, in Italy, to marry the king of France, he traveled with his chefs who prepared especially different dishes with spinach. Therefore, since then any dish prepared with spinach, it was known as Florentine spinach."
-      },
-      "cultivation": {
-        "firt": "Spinach prefers rich and moist soils, but it can grow in any soil as long as it has enough organic matter. In small orchards or planters it is enough to add a generous amount of compost to the soil.",
-        "second": "Spinach is a plant that needs little heat to grow, otherwise it will bloom early and it will become very bitter to be eaten. This is why most spinach varieties are planted either very early in spring or autumn when the summer heat has passed. Now, if you want to plant in summer, you can look for some varieties that are more resistant to heat.",
-        "third": "Spinach seeds are sown directly in the soil, preferably 2cm deep. In the orchards or terraces, rows separated by 30 cm are made and in pots the seeds are spread around the entire surface.",
-        "fourth": "When the small plants appear, it is cleared at a distance of 10 cm between plants in the orchards and in the planters it is cleared leaving a radius of about 20 cm between each plant.",
-        "fiveth": "The spinach plant can grow perfectly without much sun. This makes it ideal for putting it or planting it in places that have a lot of shade during the day. It also tolerates to be in full sun but you have to be careful that it is not in hot places or spaces.",
-        "sixth": "Spinach is a plant that prefers to be in humid soil, but you must avoid the accumulation of water in the soil. This rots the roots.",
-        "seventh": "It is recommended to water the spinach every time the soil is being dried.",
-        "eighth": "To collect the spinach it is not necessary to tear off the whole plant, just take out its outer leaves. The small inner leaves will grow back quickly."
-      },
-      "properties": {
-        "firt": "Promotes the transport and deposition of oxygen in tissues",
-        "second": "Increase muscle strength",
-        "third": "It helps you lose weight",
-        "fourth": "It helps prevent diseases",
-        "fiveth": "It benefits pregnant women and children",
-        "sixth": "Improves vision",
-        "seventh": "Keeps blood pressure balanced"
-      }
+      "info": [
+        "Spinach is an excellent natural resource of vitamins, fibers and minerals, which compared to meats, provides few calories and does not contain fats. It is also rich in phytonutrients, especially beta-carotene and lutein, making it a vegetable with antioxidant properties that protect us from cell damage. Its stems are richer in fiber than the leaves.",
+        "Spinach is rich in vitamins and minerals Spinach, whose scientific name is Spinacea oleracea, belongs to the Amaranth family, chenopodiodeáceas, as well as beets, quinoa and chard. They grow very well in temperate climates, being today the United States and China, among others, the most important producing countries. They are available throughout the year.",
+        "It is believed that spinach comes from ancient Persia (now Iran). In the seventh century he arrived in China in the hands of the King of Nepal as a gift for the Chinese emperor. It was then the Moors who introduced it to Spain in the eleventh century and from there to the rest of Europe. Spinach was the favorite vegetable of Catalina de Medici. When he left his native Florence, in Italy, to marry the king of France, he traveled with his chefs who prepared especially different dishes with spinach. Therefore, since then any dish prepared with spinach, it was known as Florentine spinach."
+      ],
+      "cultivation": [
+        "Spinach prefers rich and moist soils, but it can grow in any soil as long as it has enough organic matter. In small orchards or planters it is enough to add a generous amount of compost to the soil.",
+        "Spinach is a plant that needs little heat to grow, otherwise it will bloom early and it will become very bitter to be eaten. This is why most spinach varieties are planted either very early in spring or autumn when the summer heat has passed. Now, if you want to plant in summer, you can look for some varieties that are more resistant to heat.",
+        "Spinach seeds are sown directly in the soil, preferably 2cm deep. In the orchards or terraces, rows separated by 30 cm are made and in pots the seeds are spread around the entire surface.",
+        "When the small plants appear, it is cleared at a distance of 10 cm between plants in the orchards and in the planters it is cleared leaving a radius of about 20 cm between each plant.",
+        "The spinach plant can grow perfectly without much sun. This makes it ideal for putting it or planting it in places that have a lot of shade during the day. It also tolerates to be in full sun but you have to be careful that it is not in hot places or spaces.",
+        "Spinach is a plant that prefers to be in humid soil, but you must avoid the accumulation of water in the soil. This rots the roots.",
+        "It is recommended to water the spinach every time the soil is being dried.",
+        "To collect the spinach it is not necessary to tear off the whole plant, just take out its outer leaves. The small inner leaves will grow back quickly."
+      ],
+      "properties": [
+        "Promotes the transport and deposition of oxygen in tissues",
+        "Increase muscle strength",
+        "It helps you lose weight",
+        "It helps prevent diseases",
+        "It benefits pregnant women and children",
+        "Improves vision",
+        "Keeps blood pressure balanced"
+      ]
     },
     {
       "title": "MINT",
-      "info": {
-        "firt": "The mint (Mentha) is a genus of popular plants and known as an oral refresher that has been used for hundreds of years for its medicinal properties.",
-        "second": "It has more than two dozen species and hundreds of varieties that also include mentha spicata also known as peppermint and mentha pulegium or pennyroyal among others.",
-        "third": "It can be used in many culinary preparations, both fresh and dried. In addition, there are many products available in the market, with a distinctive mint flavor. Things like toothpaste, shaving gels, chewing gum, breath fresheners, candies, teas, balms, oils and mint-flavored inhalers are the most used.",
-        "fourth": "Because of its fresh flavor, mint extract is popularly paired with cakes, cookies, nutritional supplements, sugar-free products and energy bars.",
-        "fiveth": "Mint fragrance oil is used in ice cream and chocolates. mint syrup is used in alcoholic and non-alcoholic beverages."
-      },
-      "cultivation": {
-        "firt": "Mint is a good option because it is an herb that adapts to all types of soils. While he prefers those that are wet, he tolerates even those that are poorly drained. On the other hand, mint does not need much sun so you can grow it even if you have a balcony or terrace with few hours of natural light.",
-        "second": "At the time of planting it, it is best to have your specimen from cuttings of another plant although it is also possible to plant the seeds. In this case, you will have to do it in a 20 cm wide pot. deep as mint is a plant that develops horizontally.",
-        "third": "It is a plant that gives several crops a year - between two and three - so it has a great yield for the little attention it requires.",
-        "fourth": "More than care, mint requires some control, since, despite its great virtues, it is an invasive species, which grows horizontally and multiplies with great speed. The solution is very simple: give them a wide pot (about 20-30 cm in diameter) just for mint, or plant it under a tree, to compensate for that 'competition'. Therefore, at the associative level, it is better to grow it alone.",
-        "fiveth": "The paradise for mint is a fertile soil, with many nutrients (humus) and moist. A good substrate and a lot of space will make it grow at a pace that will surprise you. Moderate exposure to the sun - also why it is good to plant it near a tree - and good watering, to maintain moisture (yes, it also requires good drainage) will guarantee its growth.",
-        "sixth": "In winter, it is recommended to cut the surface part, and even cover it, to protect it from frost. Once spring comes, it sprouts again as if there were no tomorrow.",
-        "seventh": "Although they adapt relatively well to most soils, they do not support those that prevent them from growing: limestone, unbalanced in terms of nutrients and, worse, very dry and with many stones. The roots cannot extend to their will in a land of these characteristics."
-      },
-      "properties": {
-        "firt": "Mint to treat asthma",
-        "second": "Allergic rhinitis",
-        "third": "Help in digestion",
-        "fourth": "Help in breastfeeding",
-        "fiveth": "Prevent Respiratory Disorders",
-        "sixth": "Skin care",
-        "seventh": "Weightloss",
-        "eighth": "Prevent memory loss",
-        "nineth": "Oral care",
-        "tenth": "Treatment of nausea",
-        "eleventh": "Relieve headaches",
-        "twelfth": "Reduce depression and fatigue",
-        "thirtieth": "Prevent cancer"
-      }
+      "info": [
+        "The mint (Mentha) is a genus of popular plants and known as an oral refresher that has been used for hundreds of years for its medicinal properties.",
+        "It has more than two dozen species and hundreds of varieties that also include mentha spicata also known as peppermint and mentha pulegium or pennyroyal among others.",
+        "It can be used in many culinary preparations, both fresh and dried. In addition, there are many products available in the market, with a distinctive mint flavor. Things like toothpaste, shaving gels, chewing gum, breath fresheners, candies, teas, balms, oils and mint-flavored inhalers are the most used.",
+        "Because of its fresh flavor, mint extract is popularly paired with cakes, cookies, nutritional supplements, sugar-free products and energy bars.",
+        "Mint fragrance oil is used in ice cream and chocolates. mint syrup is used in alcoholic and non-alcoholic beverages."
+      ],
+      "cultivation": [
+        "Mint is a good option because it is an herb that adapts to all types of soils. While he prefers those that are wet, he tolerates even those that are poorly drained. On the other hand, mint does not need much sun so you can grow it even if you have a balcony or terrace with few hours of natural light.",
+        "At the time of planting it, it is best to have your specimen from cuttings of another plant although it is also possible to plant the seeds. In this case, you will have to do it in a 20 cm wide pot. deep as mint is a plant that develops horizontally.",
+        "It is a plant that gives several crops a year - between two and three - so it has a great yield for the little attention it requires.",
+        "More than care, mint requires some control, since, despite its great virtues, it is an invasive species, which grows horizontally and multiplies with great speed. The solution is very simple: give them a wide pot (about 20-30 cm in diameter) just for mint, or plant it under a tree, to compensate for that 'competition'. Therefore, at the associative level, it is better to grow it alone.",
+        "The paradise for mint is a fertile soil, with many nutrients (humus) and moist. A good substrate and a lot of space will make it grow at a pace that will surprise you. Moderate exposure to the sun - also why it is good to plant it near a tree - and good watering, to maintain moisture (yes, it also requires good drainage) will guarantee its growth.",
+        "In winter, it is recommended to cut the surface part, and even cover it, to protect it from frost. Once spring comes, it sprouts again as if there were no tomorrow.",
+        "Although they adapt relatively well to most soils, they do not support those that prevent them from growing: limestone, unbalanced in terms of nutrients and, worse, very dry and with many stones. The roots cannot extend to their will in a land of these characteristics."
+      ],
+      "properties": [
+        "Mint to treat asthma",
+        "Allergic rhinitis",
+        "Help in digestion",
+        "Help in breastfeeding",
+        "Prevent Respiratory Disorders",
+        "Skin care",
+        "Weightloss",
+        "Prevent memory loss",
+        "Oral care",
+        "Treatment of nausea",
+        "Relieve headaches",
+        "Reduce depression and fatigue",
+        "Prevent cancer"
+      ]
     },
     {
       "title": "RUCULA",
-      "info": {
-        "firt": "Arugula is a vegetable grouped within green leafy vegetables and whose cultivation is intended for consumption. This plant is mainly developed in southern Europe, in the Mediterranean area and that is why it has become a fundamental ingredient of the region's cuisine. It also grows in Western Asia and in North Africa. Currently, its cultivation has spread to almost everyone, where it finds the right climatic conditions. The arugula is a plant of the Cruciferous family or Brasicaceae and its scientific name is Eruca vesicaria, although there are some other species that are identified as arugula."
-      },
-      "cultivation": {
-        "firt": "These plants are annual herbaceous and their growth is quite fast. Although arugula grows with greater enthusiasm in hot climates, its prolonged exposure to sunlight results in leaves with an excessive bitter taste. That is why its cultivation is recommended at the beginning of spring.",
-        "second": "The arugula leav es must be collected when the plant is still young and has not exceeded 30 centimeters in height. Otherwise, leaves with an excessive bitter taste will be obtained. The cut is done flush with the ground and if the seeds have been planted in spring, the harvest can be done in early summer."
-      },
-      "properties": {
-        "firt": "Vitamin A ",
-        "second": "Beneficial for the bones",
-        "third": "It provides antioxidants",
-        "fourth": "Cancer prevention",
-        "fiveth": "It provides vital magnesium to produ ce energy "
-      }
+      "info": [
+        "Arugula is a vegetable grouped within green leafy vegetables and whose cultivation is intended for consumption. This plant is mainly developed in southern Europe, in the Mediterranean area and that is why it has become a fundamental ingredient of the region's cuisine. It also grows in Western Asia and in North Africa. Currently, its cultivation has spread to almost everyone, where it finds the right climatic conditions. The arugula is a plant of the Cruciferous family or Brasicaceae and its scientific name is Eruca vesicaria, although there are some other species that are identified as arugula."
+      ],
+      "cultivation": [
+        "These plants are annual herbaceous and their growth is quite fast. Although arugula grows with greater enthusiasm in hot climates, its prolonged exposure to sunlight results in leaves with an excessive bitter taste. That is why its cultivation is recommended at the beginning of spring.",
+        "The arugula leav es must be collected when the plant is still young and has not exceeded 30 centimeters in height. Otherwise, leaves with an excessive bitter taste will be obtained. The cut is done flush with the ground and if the seeds have been planted in spring, the harvest can be done in early summer."
+      ],
+      "properties": [
+        "Vitamin A ",
+        "Beneficial for the bones",
+        "It provides antioxidants",
+        "Cancer prevention",
+        "It provides vital magnesium to produ ce energy "
+      ]
     },
     {
       "title": "BASIL",
-      "info": {
-        "firt": "Basil is a plant of intense aroma and color that not only brightens the sight of any crop but also offers us numerous benefits when it comes to enhancing the taste of dishes, providing health and also protecting other plants in our crop."
-      },
-      "cultivation": {
-        "firt": "Basil is preferably sown in seedbeds, although we can also do it directly in the soil or pot of the urban garden, burying its seeds about 2 cm deep.",
-        "second": "Basil requires some essential care just like most plants, that is, fertile soil, adequate irrigation and light.",
-        "third": "The greatest care must be taken when protecting them from cold and frost.",
-        "fourth": "Excess water can also be a problem, so keep the soil moist but not flooded. It is best to ensure good drainage.",
-        "fiveth": "It is better to place basil in places sheltered from the wind, because when it is intense it breaks its branches easily.",
-        "sixth": "It is advisable to prune them every two weeks to ensure a strong and abundant plant in their foliage.",
-        "seventh": "Basil is not usually a victim of insects or pests. The one with the highest risk is that of snails. In any case, our advice is that if you are affected by a problem, do not resort to industrial chemicals that poison the soil and your dishes. There are numerous ecological alternatives that you can use with great efficiency. Visit our pests section.",
-        "eighth": "It is preferable to water directly on the ground without wetting the leaves."
-      },
-      "properties": {
-        "firt": "Fight burnout",
-        "second": "It is antispasmodic",
-        "third": "Fights acne",
-        "fourth": "It is very good against osteoarticular inflammations"
-      }
+      "info": [
+        "Basil is a plant of intense aroma and color that not only brightens the sight of any crop but also offers us numerous benefits when it comes to enhancing the taste of dishes, providing health and also protecting other plants in our crop."
+      ],
+      "cultivation": [
+        "Basil is preferably sown in seedbeds, although we can also do it directly in the soil or pot of the urban garden, burying its seeds about 2 cm deep.",
+        "Basil requires some essential care just like most plants, that is, fertile soil, adequate irrigation and light.",
+        "The greatest care must be taken when protecting them from cold and frost.",
+        "Excess water can also be a problem, so keep the soil moist but not flooded. It is best to ensure good drainage.",
+        "It is better to place basil in places sheltered from the wind, because when it is intense it breaks its branches easily.",
+        "It is advisable to prune them every two weeks to ensure a strong and abundant plant in their foliage.",
+        "Basil is not usually a victim of insects or pests. The one with the highest risk is that of snails. In any case, our advice is that if you are affected by a problem, do not resort to industrial chemicals that poison the soil and your dishes. There are numerous ecological alternatives that you can use with great efficiency. Visit our pests section.",
+        "It is preferable to water directly on the ground without wetting the leaves."
+      ],
+      "properties": [
+        "Fight burnout",
+        "It is antispasmodic",
+        "Fights acne",
+        "It is very good against osteoarticular inflammations"
+      ]
     },
     {
       "title": "ROSEMARY",
-      "info": {
-        "firt": "Rosemary is a plant very rich in active ingredients and has numerous medicinal properties, among others, it is antiseptic, antispasmodic, flavoring, depurative, stomach stimulants, carminative, collagogo - it facilitates the expulsion of bile -, diuretic or hypotensive."
-      },
-      "cultivation": {
-        "firt": "Rosemary is a resistant plant that adapts to different planting conditions although it prefers warm and dry weather in addition to sun exposure. Ideally, it will grow in a well drained and alkaline soil because then it will give off a greater smell. The root of rosemary could rot in a flooded soil.",
-        "second": "You can sow it in pots or in the ground. Once the option is chosen, you must sow the cuttings because the seeds take too long to germinate. The saplings are bought in any nursery and you can plant those that are about 8 cm at the end of spring or at the beginning of autumn if you live in a place with warm weather.",
-        "third": "In the case of potting, place a sprout per pot and then fill with soil, two thirds of coarse sand and one third of peat moss. Water frequently until it roots and tries to check that the soil drains well. In the case of sowing it directly in the ground, choose a place where you receive sun most of the day."
-      },
-      "properties": {
-        "firt": "Dandruff",
-        "second": "Cellulitis.",
-        "third": "Contusions",
-        "fourth": "Headache",
-        "fiveth": "Spasms",
-        "sixth": "Jaundice",
-        "seventh": "Insomnia",
-        "eighth": "Rheumatism"
-      }
+      "info": [
+        "Rosemary is a plant very rich in active ingredients and has numerous medicinal properties, among others, it is antiseptic, antispasmodic, flavoring, depurative, stomach stimulants, carminative, collagogo - it facilitates the expulsion of bile -, diuretic or hypotensive."
+      ],
+      "cultivation": [
+        "Rosemary is a resistant plant that adapts to different planting conditions although it prefers warm and dry weather in addition to sun exposure. Ideally, it will grow in a well drained and alkaline soil because then it will give off a greater smell. The root of rosemary could rot in a flooded soil.",
+        "You can sow it in pots or in the ground. Once the option is chosen, you must sow the cuttings because the seeds take too long to germinate. The saplings are bought in any nursery and you can plant those that are about 8 cm at the end of spring or at the beginning of autumn if you live in a place with warm weather.",
+        "In the case of potting, place a sprout per pot and then fill with soil, two thirds of coarse sand and one third of peat moss. Water frequently until it roots and tries to check that the soil drains well. In the case of sowing it directly in the ground, choose a place where you receive sun most of the day."
+      ],
+      "properties": [
+        "Dandruff",
+        "Cellulitis.",
+        "Contusions",
+        "Headache",
+        "Spasms",
+        "Jaundice",
+        "Insomnia",
+        "Rheumatism"
+      ]
     }
   ]
 }

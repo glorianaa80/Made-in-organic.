@@ -19,6 +19,7 @@
   max-height: 0;
   transition: max-height .2s ease-out;
   text-transform: uppercase;
+  background: white;
 }
 
 /* menu icon */
@@ -64,7 +65,7 @@
 }
 
 .header .menu-btn:checked~.menu {
-  max-height: 310px;
+  max-height: 492px;
 }
 
 .header .menu-btn:checked~.menu-icon .navicon {
@@ -81,4 +82,22 @@
 
 .header .menu-btn:checked~.menu-icon:not(.steps) .navicon:before, .header .menu-btn:checked~.menu-icon:not(.steps) .navicon:after {
   top: 0;
+}
+#plants-link{
+  cursor: pointer;
+}
+.plants-accordionn{
+  height:200px; 
+  width:100%;
+  overflow:hidden; 
+  overflow-y:scroll;
+  
+}
+
+.hola{
+  display: none;
+}
+
+.muestra {
+  display: block;
 }
