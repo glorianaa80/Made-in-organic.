@@ -26,3 +26,9 @@ import './fetchRecipe';
 import './fetchDrinks';
 
 import './menue';
+
+// LocalStorage
+import './localstorage';
+// Menu
+
+import './import';

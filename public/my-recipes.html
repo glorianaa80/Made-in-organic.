@@ -20,30 +20,43 @@
       <input class="menu-btn" type="checkbox" id="menu-btn" />
       <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
       <ul class="menu">
-        <li><a href="#">home</a></li>
-        <li><a href="./plants.html">plants</a></li>
-        <li><a href="./my-recipes.html">recipies</a></li>
-        <li><a href="#">drinks</a></li>
-        <li><a href="#">my recipies</a></li>
+        <li><a href="./index.html">home</a></li>
+        <li id="plants-link" class="hoal">plants
+          <ul class="plants-accordionn hola" id="plants-accordion">
+            <li><a onclick="kale()" href="./kale.html"> kale</a></li>
+            <li><a onclick="coriander()" href="./coriander.html"> coriander</a></li>
+            <li><a onclick="thyme()" href="./thyme.html"> thyme</a></li>
+            <li><a onclick="spinach()" href="./spinach.html"> spinach</a></li>
+            <li><a onclick="mint()" href="./mint.html"> mint</a></li>
+            <li><a onclick="arugula()" href="./arugula.html"> arugula</a></li>
+            <li><a onclick="basil()" href="./basil.html"> basil</a></li>
+            <li><a onclick="rosemary()" href="./rosemary.html"> rosemary</a></li>
+          </ul>
+        </li>
+        <li><a onclick="recipe()" href="./recipe.html">recipe</a></li>
+        <li><a onclick="drinks()" href="./drinks.html">drinks</a></li>
+        <li><a href="./my-recipes.html">my recipies</a></li>
       </ul>
-    </div>  
+    </div>
   </div>
   <div class="form-recipe">
     <P class="tittle-my-recipe">enter your recipe</P>
-
-      <form action="" class="form-my-recipe">
-        <div class="form-grid">
-          <input type="text" class="space-tittle name" name="name" id="Date" value="" placeholder="Name of the recipe"/>
-          <input type="text" class="space-tittle ingredients" name="ingredients" id="Date" value="" placeholder="Ingredients"/>
-          <input type="text" class="space-tittle preparation" name="preparation" id="Date" value="" placeholder="Preparation"/>
-          <input type="button" value="PUBLISH" class="btn-recipe btn-publish">
-          <input type="file" name="" id="" class="btn-recipe btn-img" >
-        
-        </div>
-      </form>
-    </div>
+    <form id="form" action="" class="form-my-recipe">
+      <div class="form-grid">
+        <input type="text" class="space-tittle name" name="name" id="name" value="" placeholder="Name of the recipe" />
+        <input type="text" class="space-tittle ingredients" value="" name="ingredients" id="ingredients" value=""
+          placeholder="Ingredients" />
+        <input type="text" class="space-tittle preparation" value="" name="preparation" id="preparation" value=""
+          placeholder="Preparation" />
+        <input type="submit" id="publish" value="PUBLISH" class="btn-recipe btn-publish">
+        <input type="file" name="" id="" class="btn-recipe btn-img">
+      </div>
+    </form>
+  </div>
+  <div class="new-recipe" id="new-recipe" ></div>
   </div>
 </body>
 <script src="main.js"></script>
+
 </html>
  
